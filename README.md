@@ -1,4 +1,4 @@
-# MoiuseBrainMatrix
+# MouseBrainMatrix
 3D printed brain matrix
 
 Designed by Lex Kravitz (lex.kravitz@gmail.com)
